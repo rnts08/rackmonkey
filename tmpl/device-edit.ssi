@@ -105,6 +105,7 @@
 								Emphasis: **example** = <em>example</em><br/>
 								Strong: ***example*** = <strong>example</strong><br/>
 								Link: [http://www.example.com|example link] = <a href="http://www.example.com">example link</a>
+                                <strong>Note:</strong> Device-notes will be displayed within &lt;pre&gt;&lt;/pre&gt; tags, don't use styling.
 							</p>
 						</div>
 						<!-- end of device edit include -->
