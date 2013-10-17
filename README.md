@@ -7,7 +7,7 @@ Feature wish-list
 -------------------------
 
 - [x] Raw paste from cli-output in hardware-devices, for example 'show chassis hardware' 
-      without styling (enclose hardware and device Notes with <pre></pre>).
+      without styling (enclose hardware and device Notes with pre-tags).
 - [ ] IP-address field on devices
 - [ ] OOB-management clickable link/ip-address field (ILOM/IPMI)
 - [ ] Ports on switches and routers, with descriptions and 'type' (nic|transit|peering|core|access)
